@@ -1,8 +1,12 @@
 # tweet_animation
 Animated chart of twitter sentiment and stock price change
 
+More examples: https://www.instagram.com/powerful_charts/
+
+
 
 ![](bmw.gif)
+
 
 ## Installation
 
